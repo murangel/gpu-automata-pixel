@@ -1,6 +1,6 @@
 ﻿
 #include "Kernel.cuh"
-
+//akajfhl
 /** fitHits, gives the fit between h0 and h1.
 
 The accept condition requires dxmax and dymax to be in a range.
